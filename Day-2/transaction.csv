@@ -1,0 +1,7 @@
+transaction_id,client_name,service,amount,status
+TXN001,Alpha Corp,AI Audit,1500,paid
+TXN002,Beta Inc,Data Extraction,800,pending
+TXN003,Charlie Ltd,Bot Development,3000,paid
+TXN004,Delta Co,AI Audit,1500,paid
+TXN005,Echo LLC,Cloud Setup,500,failed
+TXN006,LIC ,chat bot,2000,pending
