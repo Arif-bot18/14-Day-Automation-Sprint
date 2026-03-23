@@ -1,6 +1,0 @@
- date,product , amount, status
-2026-03-17,AI-Bot,500,paid
-2026-03-17,Audit-Service,1200,paid
-2026-03-17,Scraper,300,failed
-2026-03-17,AI-Bot,500,paid
-2026-03-17,ai-bot,400,failed
