@@ -1,0 +1,7 @@
+fastapi
+pydantic 
+BaseModel
+sqlalchemy
+Session,sessionmaker,create_engine,
+declarative_base
+Column,Integer,String
