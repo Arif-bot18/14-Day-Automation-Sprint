@@ -2,7 +2,7 @@ from fastapi import FastAPI , Depends
 from pydantic import BaseModel #form validator 
 from sqlalchemy import create_engine,Column,Integer,String #connects to the database,define the columns,data types 
 from sqlalchemy.ext.declarative import declarative_base # creat the basetemplate for the database table
-from sqlalchemy.orm import sessionmaker,Session #this create the conection to the databasd
+from sqlalchemy.orm import sessionmaker,Session #this create the conection to the database
 
 
 Database_url = "sqlite:///./leads.db" #it's a connection string(address) or file 
